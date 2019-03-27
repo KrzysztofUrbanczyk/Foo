@@ -19,7 +19,7 @@ namespace Tests
         [Test]
         public void SecondTest()
         {
-            Assert.Pass();
+            Assert.Fail();
         }
     }
 }
