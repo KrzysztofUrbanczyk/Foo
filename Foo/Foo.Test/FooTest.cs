@@ -17,9 +17,9 @@ namespace Tests
         }
 
         [Test]
-        public void FailTest()
+        public void SecondTest()
         {
-            Assert.Fail();
+            Assert.Pass();
         }
     }
 }
